@@ -1,0 +1,128 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #f9dfdc
+}
+
+h1 {
+  margin-top: 50px;
+  font-family: 'Lilita One', cursive;
+  color: #962d2d;
+  font-size: 312.5%;
+  /*50px/16 * 100*/
+  font-weight: normal;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #962d2d;
+  font-weight: 900;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5625rem;
+  /*samma som procent*/
+}
+
+hr {
+  margin-top: 50px;
+  border-style: none;
+  background-color: black;
+  height: 2px;
+  width: 25%;
+}
+
+.top {
+  background-color: #f9dfdc;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle {
+  background-color: #f9dfdc;
+  padding-top: 50px;
+  position: relative;
+}
+
+.bottom {
+  background-color: #f9dfdc;
+  padding-top: 50px;
+  position: relative;
+}
+
+.Döden {
+  margin: 0 auto 0 auto;
+  line-height: 2;
+  width: 500px;
+}
+
+.Fenix {
+  margin: 0 auto 0 auto;
+  line-height: 2;
+  width: 500px;
+}
+
+.Slutet {
+  margin: 0 auto 0 auto;
+  line-height: 2;
+  width: 500px;
+}
+
+.Ninja_H {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 0;
+  right: 300px;
+}
+
+.Ninja_V {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  top: 270px;
+  left: 280px;
+}
+
+.temple {
+  margin-top: 50px;
+}
+
+.death {
+  height: 200px;
+  width: 240px;
+  float: right;
+  position: absolute;
+  right: 100px;
+}
+
+.phoenix {
+  height: 200px;
+  width: 200px;
+  float: left;
+  position: absolute;
+  left: 120px;
+  top: 380px;
+}
+
+.gods {
+  height: 200px;
+  width: 250px;
+  float: right;
+  position: absolute;
+  right: 100px;
+}
+
+.footer-link {
+  color: #11999e;
+}
+
+.middle {}
+
+.bottom {}
+
+/* blue:
+   dark blue:
+   black:000000*/
